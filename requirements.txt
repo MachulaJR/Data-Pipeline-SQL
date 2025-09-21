@@ -1,0 +1,6 @@
+pandas==2.3.1           # Manipulação de dados
+kaggle==1.7.4.5         # API do Kaggle para baixar datasets
+sqlalchemy==2.0.42      # ORM para banco de dados SQL
+psycopg2-binary==2.9.10 # Conexão com o PostgreSQL
+requests==2.31.0        # Chamadas HTTP
+python-dotenv==1.0.1    # Carregar variáveis

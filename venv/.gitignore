@@ -1,0 +1,29 @@
+# 🐍 Arquivos Python compilados
+__pycache__/
+*.pyc
+
+# 📦 Ambiente virtual
+venv/
+ENV/
+env/
+
+# 🗄️ Banco de dados local
+*.db
+cars_data.db
+
+# 🔐 Arquivos sensíveis
+.env
+data/raw/kaggle.json
+
+# 📊 Dados brutos (se não forem públicos ou forem grandes)
+data/raw/*.csv
+
+# 📄 Relatórios e documentos gerados
+docs/
+*.pdf
+
+# ⚙️ Arquivos temporários e de sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
