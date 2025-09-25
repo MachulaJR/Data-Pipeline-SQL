@@ -1,5 +1,5 @@
 
-# DataPipelineSQL
+# Python-ETL-SQL
 
 Automatizador de tratamento de dados do Kaggle com integração ao PostgreSQL. 
 Este projeto realiza o download automático de datasets, aplica transformações e insere os dados tratados em um banco relacional para consultas SQL.
